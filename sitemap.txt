@@ -1,9 +1,11 @@
+http://example.com/posts/4a17b156.html
+http://example.com/posts/11739cef.html
 http://example.com/link/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
 http://example.com/about/index.html
 http://example.com/movie/index.html
 http://example.com/music/index.html
-http://example.com/posts/4a17b156.html
-http://example.com/posts/11739cef.html
 http://example.com/
 http://example.com/tags/%E5%8E%9F%E5%88%9B/
 http://example.com/categories/Java/
