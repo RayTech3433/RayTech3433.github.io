@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-05T07:54:03.745Z</updated>
+  <updated>2024-03-07T01:00:31.893Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Latex学习</title>
+    <link href="http://example.com/posts/8837ae6a.html"/>
+    <id>http://example.com/posts/8837ae6a.html</id>
+    <published>2024-03-07T00:54:30.000Z</published>
+    <updated>2024-03-07T01:00:31.893Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Home-Page"><a href="#Home-Page" class="headerlink" title="Home Page"></a>Home Page</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Home-Page&quot;&gt;&lt;a href=&quot;#Home-Page&quot; class=&quot;headerlink&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;Home Page&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    <category term="学习-写作" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0-%E5%86%99%E4%BD%9C/"/>
+    
+    
+    <category term="Latex" scheme="http://example.com/tags/Latex/"/>
+    
+  </entry>
   
   <entry>
     <title>test_page</title>
