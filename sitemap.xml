@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/8837ae6a.html</loc>
+    <loc>https://raytech3433.github.io/posts/8837ae6a.html</loc>
+    
+    <lastmod>2024-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://raytech3433.github.io/google2782fb2054b628ba.html</loc>
     
     <lastmod>2024-03-07</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/google2782fb2054b628ba.html</loc>
-    
-    <lastmod>2024-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://raytech3433.github.io/link/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://raytech3433.github.io/categories/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://raytech3433.github.io/tags/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://raytech3433.github.io/about/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/movie/index.html</loc>
+    <loc>https://raytech3433.github.io/movie/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://raytech3433.github.io/music/index.html</loc>
     
     <lastmod>2024-03-05</lastmod>
     
@@ -75,16 +75,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2024-03-08</lastmod>
+    <loc>https://raytech3433.github.io/</loc>
+    <lastmod>2024-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Latex/</loc>
-    <lastmod>2024-03-08</lastmod>
+    <loc>https://raytech3433.github.io/tags/Latex/</loc>
+    <lastmod>2024-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -92,8 +92,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E5%AD%A6%E4%B9%A0-%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2024-03-08</lastmod>
+    <loc>https://raytech3433.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2024-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
