@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://raytech3433.github.io/posts/409c.html</loc>
+    
+    <lastmod>2024-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://raytech3433.github.io/posts/409b.html</loc>
     
     <lastmod>2024-03-28</lastmod>
@@ -107,6 +116,13 @@
   
   <url>
     <loc>https://raytech3433.github.io/tags/Blog/</loc>
+    <lastmod>2024-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://raytech3433.github.io/tags/About/</loc>
     <lastmod>2024-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
